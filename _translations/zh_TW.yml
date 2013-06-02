@@ -200,7 +200,7 @@ zh_TW:
     list1: "即時的點對點交易"
     list2: "全球性支付"
     list3: "極低甚至零的處理費"
-    list4: "以及更多!"
+    list4: "以及更多"
     desc: "Bitcoin 以點對點技術運作，因此不需由中央機構來運行。管理交易和發行 bitcoin 皆是由整個網路合作完成。許多令人興奮，但是現有的支付系統無法涵蓋的應用，都可以藉由 Bitcoin 的諸多特性來達成。"
     license: "此軟體是社群所推動的<a href=\"http://www.fsf.org/about/what-is-free-software\">自由開源軟體</a>計畫，以<a href=\"http://creativecommons.org/licenses/MIT/\">MIT license</a>發佈"
   resources:
