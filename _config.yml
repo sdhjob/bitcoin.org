@@ -10,6 +10,7 @@ ALERT_CLASS:
   it: 
   nl: 
   ru: 
+  zh_CN: 
   
 ALERT:
   all: 
@@ -21,6 +22,7 @@ ALERT:
   it: 
   nl: 
   ru: 
+  zh_CN: 
 
 langsorder:
 - id: en
@@ -29,6 +31,7 @@ langsorder:
 - id: it
 - id: nl
 - id: ru
+- id: zh_CN
 - id: ar
 - id: fa
 
@@ -41,6 +44,7 @@ langs:
   it: Italiano
   nl: Nederlands
   ru: Русский
+  zh_CN: ‪简体中文‬
 
 safe:        false
 auto:        false
