@@ -371,10 +371,10 @@ zh_TW:
     footer: "© Bitcoin Project 2009–2013 以 <a href=\"http://creativecommons.org/licenses/MIT/\" target=\"_blank\">MIT 授權</a>發佈"
   url:
     about: 關於
-    bitcoin-for-developers: 給 Bitcoin 開發者
-    bitcoin-for-enthusiasts: 給 Bitcoin 狂熱者
-    bitcoin-for-individuals: Bitcoin 個人用途
-    bitcoin-for-businesses: Bitcoin 企業用途
+    bitcoin-for-developers: Bitcoin開發者
+    bitcoin-for-enthusiasts: Bitcoin狂熱者
+    bitcoin-for-individuals: Bitcoin個人用途
+    bitcoin-for-businesses: Bitcoin商業用途
     bitcoin-for-press: 
     choose-your-wallet: 選擇你的錢包
     community: 社群
@@ -384,9 +384,9 @@ zh_TW:
     how-it-works: 運作原理
     resources: 資源
     secure-your-wallet: 保管你的錢包
-    support-bitcoin: 支持 Bitcoin
+    support-bitcoin: 支持Bitcoin
     vocabulary: 詞彙
-    you-need-to-know: Bitcoin 使用須知
+    you-need-to-know: Bitcoin使用須知
   anchor:
     vocabulary:
       address: 地址
@@ -396,7 +396,7 @@ zh_TW:
       confirmation: 確認
       cryptography: 密碼學
       double-spend: 雙重支付
-      hash-rate: hash 速率
+      hash-rate: hash速率
       mining: 採礦
       p2p: 點對點
       private-key: 私密金鑰
